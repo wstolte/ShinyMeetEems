@@ -6,5 +6,3 @@ App contains data from the national monitoring programme of the Ministery of Inf
 
 The original data can be downloaded from live.waterbase.nl
 
-For questions, contact me at willem.stolte at deltares.nl
-
